@@ -7,3 +7,10 @@
   <TodoList />
   <AddTodoForm />
 </main>
+
+<style>
+  main {
+    display: grid;
+    justify-items: center;
+  }
+</style>

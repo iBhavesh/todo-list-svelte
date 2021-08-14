@@ -8,3 +8,9 @@
     <TodoItem {todo} />
   {/each}
 </ul>
+
+<style>
+  ul {
+    padding: 0;
+  }
+</style>
